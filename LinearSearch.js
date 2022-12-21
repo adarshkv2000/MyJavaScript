@@ -21,5 +21,5 @@ if(pos !==-1){
     console.log(`element found at postion: ${pos}`);
 }
 else{
-    console.log("Element not found");
+    console.log(`Element not found`);
 }
